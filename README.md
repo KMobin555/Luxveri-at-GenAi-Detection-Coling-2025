@@ -1,4 +1,4 @@
-# LuxVeri at GenAI Detection Task 1: Inverse Perplexity Weighted Ensemble  
+# LuxVeri at GenAI Detection Task 1: Inverse Perplexity Weighted Ensemble for Robust Detection of AI-Generated Text across English and Multilingual Contexts
 
 This repository contains the code and models used for our participation in **Task 1 of the COLING 2025 Workshop on Multilingual Machine-Generated Text (MGT) Detection**.  
 
